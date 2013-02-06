@@ -1,0 +1,12 @@
+This module does nothing (except for screw around with AUTOLOAD, which
+might well break anything that depends on that), unless a typo is made
+with a function name, in which case some random other thingy from the
+symbol table is instead called.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2013 by Jeremy Mates
+
+This library is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself, either Perl version 5.16 or, at
+your option, any later version of Perl 5 you may have available.
