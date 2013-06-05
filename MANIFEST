@@ -1,7 +1,8 @@
-Makefile.PL
+Changes
 MANIFEST
+Makefile.PL
 README
-t/Acme-NamespaceRoulette.t
 lib/Acme/NamespaceRoulette.pm
+t/Acme-NamespaceRoulette.t
 META.yml                                 Module YAML meta-data (added by MakeMaker)
 META.json                                Module JSON meta-data (added by MakeMaker)
