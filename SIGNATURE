@@ -1,0 +1,35 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 ba2a06e09460a5704842f834624a7c9166621bd3 Changes
+SHA1 91ea481a320d6a532b00314389c87f213366934f MANIFEST
+SHA1 f4fceeea490bdeab317688c27020c6d6680bc131 META.json
+SHA1 f53003dc1a8ac4b9015430553a2ee9b097b53173 META.yml
+SHA1 eed6724067517f49cad4c35406c1ae9614c10ed0 Makefile.PL
+SHA1 9c77c2b20ae6c2f480c16f26b5922e32b535c647 README
+SHA1 c62e7be5585316eb4a3b50ba98dcedeb9db05df5 lib/Acme/NamespaceRoulette.pm
+SHA1 bb8b67154091ddaeb26ed77e5f20a9622fc51b5a t/Acme-NamespaceRoulette.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJTYw9BAAoJEDTEVWqwTuCU2Z8H/2T4VWRMMXSF7YLzajJKbZQE
+iWg/iR8bREALlTKnDqXr5eFXNFbEn1Vy2rpFv39vufaaFElUdiBFGSF+i1yiTgUs
+CC5gMOc2sUSggJ3vNeI3x/KWK8VDIUsOtGkiVNvjNtGCk1SlzV042QTOsy9gS26Q
+3uDxMnKqCUY6KwDRqhYed08VvWcIYpFmgz6GOcbRZefcdWGHKWwGOUKRvpGP1+7y
+2KCCvMqHmRTnxyU2CICcQkFaJJPFRYJf7cf+ZbV7gyVyohL7T8l0zLa+d79Oi9nV
+3H/zhx9sa1QOAu6Y4acp7eVt2owafmgJXBxG+t1OuGr0KBkTBxKzOuyCAH8WpYY=
+=WLrF
+-----END PGP SIGNATURE-----
